@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330481214812",
+    "project_id": "restaurants-ef6d0",
+    "storage_bucket": "restaurants-ef6d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330481214812:android:1d82e1298e8da69fe34d99",
+        "android_client_info": {
+          "package_name": "com.hammoo.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330481214812-e76n639uvmfqdmq7cm3tv4lhfkpv60ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQp36nkUdHVtdshHQxw-C4RiRR7JBEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330481214812-e76n639uvmfqdmq7cm3tv4lhfkpv60ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
